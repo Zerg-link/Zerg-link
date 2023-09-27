@@ -17,6 +17,7 @@
 
 Студент 4-го курса в Югорском Государственном Университите по профилю "Программная инженерия". Много чего уже изучили там: начиная от веб-разработки и заканчивая машинным обучением и программирование на микроконтроллерах под Assembly и C.
 
+
 P.S. На самом деле проектов несколько больше, поскольку... я их просто не загружал. Так что спрашивайте: может, я уже делал то, что нужно.
 
 ---
@@ -30,7 +31,7 @@ P.S. На самом деле проектов несколько больше, 
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Zerg-link&theme=dark&background=000000" alt="webDev's Github stats" />
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Zerg-link&theme=outrun" alt="webDev's Github stats" />
     </td>
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zerg-link&layout=compact&theme=vision-friendly-dark" />
