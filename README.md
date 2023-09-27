@@ -45,5 +45,6 @@ P.S. На самом деле проектов несколько больше, 
 | practicum.yandex/Алгоритмы и структуры данных                   | 11/2020 - 04/2021 |
 | practicum.yandex/Разработчик C++                                | 05/2021 - 07/2022 |
 | practicum.yandex/Python разработчик                             | 03/2023 - xx/2023 |
+| YouTube Гоша Дударь / Изучение PyQt 5 (Python GUI)              | 09/2023 - xx/2023 |
 
 <img src="https://media.tenor.com/e6D5dLyuvAMAAAAM/zergling-starcraft.gif" width="100px" height="100px">
